@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/lmcuende/todo-tdd#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "node-mocks-http": "^1.8.1"
   },
   "devDependencies": {
     "jest": "^25.3.0"
